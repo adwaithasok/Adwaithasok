@@ -6,7 +6,7 @@
 
 - 🔭 I’have Completed [PC Games Downloader](https://play.google.com/store/apps/details?id=com.adwaith.movieapp)
 
-- 🌱 I’m currently learning **Flutter<Bloc,Provider> ,JavaScript, HTML,CSS,Python,**
+- 🌱 I’m currently Worrking **Flutter<Bloc,Provider> ,JavaScript, HTML,CSS,Python,**
 
 - 💬 Ask me about **Flutter,Dart**
 
