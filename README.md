@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaithasok&label=Profile%20views&color=0e75b6&style=flat" alt="adwaithasok" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adwaithasok" alt="adwaithasok" /></a> </p>
 
 - 🔭 I’have Completed [PC Games Downloader](https://play.google.com/store/apps/details?id=com.adwaith.movieapp)
 
