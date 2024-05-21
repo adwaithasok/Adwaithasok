@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaithasok&label=Profile%20views&color=0e75b6&style=flat" alt="adwaithasok" /> </p>
 
 
-- 🔭 I’have Completed [PC Games Downloader](https://play.google.com/store/apps/details?id=com.adwaith.movieapp)
+- 🔭 I’have Completed [PC Games Downloader(personal project)](https://play.google.com/store/apps/details?id=com.adwaith.movieapp)
+- [Fxmanager](https://play.google.com/store/apps/details?id=com.speriorcodelabs.fxmanagers)
+- 
 
 - 🌱 I’m currently Worrking **Flutter<Bloc,Provider> ,JavaScript, HTML,CSS,Python,**
 
