@@ -4,33 +4,27 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer | Crafting Scalable Digital Solutions 🚀
+  Passionate Software Engineer crafting seamless digital experiences. 🚀
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adwaithasok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
 ### 🚀 **About Me**
 - 🔭 **Projects Completed:**  
-  - 🎮 [PC Games Downloader](https://play.google.com/store/apps/details?id=com.adwaith.movieapp)  
-  - 📈 [FxManager](https://play.google.com/store/apps/details?id=com.speriorcodelabs.fxmanagers)  
-  - 🐾 [Koala Pet Care](https://play.google.com/store/apps/details?id=qtr.koalapet.com&hl=en_AU&gl=US)  
-  - 🏥 [JOF INDIA](https://play.google.com/store/apps/details?id=com.superiorcodelabs.jof_healthapp)  
+  - 🏥 Health & Wellness Platform  
+  - 📈 Live Market Trading App  
+  - 🛒 E-Commerce Marketplace  
+  - 💍 Matrimony Matchmaking App  
+  - 🚖 On-Demand Cab Booking  
 
 - 🌱 **Currently Learning:**  
-  Flutter `<Bloc, Provider>`, JavaScript, Python
+  Flutter `<Bloc, Provider>`, JavaScript, HTML, CSS, Python  
 
 - 💬 **Ask me about:**  
-  Flutter, Mobile App Development, Software Engineering
-
-- 📫 **Contact:**  
-  [📩 Email Me](mailto:adwaithdeva@gmail.com)
+  Flutter, Dart, Mobile App Development  
 
 - 📄 **My Resume:**  
-  [📜 View Here](https://drive.google.com/file/d/1v2qjjbINQz4TuP0vDHNpfHcBl3dvqA9p/view?usp=drive_link)
+  [📜 View Here](https://drive.google.com/file/d/1ZENrn5RwhER_TFjE3ZoDsHgCXsAhOvsf/view?usp=drive_link)  
 
 ---
 
@@ -42,7 +36,7 @@
   <a href="https://stackoverflow.com/users/adwaith-ashok" target="blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30"/>
   </a>
-  <a href="https://www.instagram.com/adwaith______asok/" target="blank">
+  <a href="https://instagram.com/adwaith______asok" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
 </p>
@@ -51,7 +45,7 @@
 
 ### 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,figma,git,html,js,kotlin,linux,mongodb,mysql,nodejs,python,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,figma,git,html,js,kotlin,linux,mongodb,mysql,nodejs,python,react,xd" />
 </p>
 
 ---
@@ -64,5 +58,8 @@
 ---
 
 ### 🚀 **Let's Collaborate!**
-💡 Have an exciting project? Let's build something impactful together!  
-📩 **[Email Me](mailto:adwaithdeva@gmail.com)** | 💬 **[LinkedIn](https://linkedin.com/in/adwaithasok)**
+💡 Have an exciting project? Let's build something amazing together!  
+
+📩 **[Email Me](mailto:adwaithdeva@gmail.com)** | 💬 **[LinkedIn](https://linkedin.com/in/adwaithasok)**  
+
+---
