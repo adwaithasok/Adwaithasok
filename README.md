@@ -44,66 +44,67 @@
 ---
 
 ### 🛠️ **Tech Stack**
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter" height="50"/><br>Flutter
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dart" height="50"/><br>Dart
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=android" height="50"/><br>Android
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" height="50"/><br>Figma
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="50"/><br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="50"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" height="50"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kotlin" height="50"/><br>Kotlin
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" height="50"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50"/><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="50"/><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="50"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" height="50"/><br>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=xd" height="50"/><br>Adobe XD
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter" height="40"/><br>Flutter
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dart" height="40"/><br>Dart
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=android" height="40"/><br>Android
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma" height="40"/><br>Figma
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=kotlin" height="40"/><br>Kotlin
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" height="40"/><br>Linux
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=xd" height="40"/><br>Adobe XD
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-### 📊 **Most Used Technologies**
+### 📊 **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaithasok&layout=compact&theme=radical" width="45%" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adwaithasok&show_icons=true&theme=radical" width="50%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaithasok&layout=compact&theme=radical" width="40%" alt="Top Languages"/>
 </p>
 
 ---
