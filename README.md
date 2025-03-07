@@ -14,11 +14,11 @@
   - 🏥 Health & Wellness Platform  
   - 📈 Live Market Trading App  
   - 🛒 E-Commerce Marketplace  
-  - 💍 Matrimony Matchmaking App  
+  - 🎰 Betting & Gaming App  
   - 🚖 On-Demand Cab Booking  
 
 - 🌱 **Currently Learning:**  
-  Flutter `<Bloc, Provider>`, JavaScript, HTML, CSS, Python  
+  Flutter `<Provider, GetX, Riverpod, Bloc>`, JavaScript, HTML, CSS, Python  
 
 - 💬 **Ask me about:**  
   Flutter, Dart, Mobile App Development  
@@ -36,7 +36,7 @@
   <a href="https://stackoverflow.com/users/adwaith-ashok" target="blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30"/>
   </a>
-  <a href="https://instagram.com/adwaith______asok" target="blank">
+  <a href="https://www.instagram.com/adwaith______asok/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
 </p>
@@ -45,7 +45,59 @@
 
 ### 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,figma,git,html,js,kotlin,linux,mongodb,mysql,nodejs,python,react,xd" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter" height="40"/><br>Flutter
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dart" height="40"/><br>Dart
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=android" height="40"/><br>Android
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma" height="40"/><br>Figma
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=kotlin" height="40"/><br>Kotlin
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" height="40"/><br>Linux
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=xd" height="40"/><br>Adobe XD
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
