@@ -54,27 +54,27 @@
         <img src="https://skillicons.dev/icons?i=dart" height="40"/><br>Dart
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=android" height="40"/><br>Android
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=figma" height="40"/><br>Figma
+        <img src="https://skillicons.dev/icons?i=firebase" height="40"/><br>Firebase
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman" height="40"/><br>Postman
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML
+        <img src="https://skillicons.dev/icons?i=android" height="40"/><br>Android
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=kotlin" height="40"/><br>Kotlin
+        <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux" height="40"/><br>Linux
+        <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB
@@ -82,22 +82,40 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js
+        <img src="https://skillicons.dev/icons?i=kotlin" height="40"/><br>Kotlin
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React
+        <img src="https://skillicons.dev/icons?i=wordpress" height="40"/><br>WordPress
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=xd" height="40"/><br>Adobe XD
+        <img src="https://skillicons.dev/icons?i=linux" height="40"/><br>Linux
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML
       </td>
     </tr>
   </table>
+</p>
+
+---
+
+### 📲 **App Deployment**
+<p align="center">
+  <img src="https://img.shields.io/badge/Play Store-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/App Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TestFlight-007AFF?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
+</p>
+
+---
+
+### 🌍 **Languages I Speak**
+<p align="center">
+  <img src="https://img.shields.io/badge/English-0073e6?style=for-the-badge&logo=google-translate&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Malayalam-ff9933?style=for-the-badge&logo=google-translate&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tamil-009933?style=for-the-badge&logo=google-translate&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -113,5 +131,3 @@
 💡 Have an exciting project? Let's build something amazing together!  
 
 📩 **[Email Me](mailto:adwaithdeva@gmail.com)** | 💬 **[LinkedIn](https://linkedin.com/in/adwaithasok)**  
-
----
