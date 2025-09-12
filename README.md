@@ -14,11 +14,11 @@
   - 🏥 Health & Wellness Platform  
   - 📈 Live Market Trading App  
   - 🛒 E-Commerce Marketplace  
-  - 🎰 Betting & Gaming App  
+  - 🎰 Betting & Gaming App (Flutter Flame)
   - 🚖 On-Demand Cab Booking  
 
 - 🌱 **Currently Learning:**  
-  Flutter `<Provider, GetX, Riverpod, Bloc>`, JavaScript, HTML, CSS, Python  
+  Flutter `<Provider, GetX, Riverpod, Bloc, Flame>`, JavaScript, HTML, CSS, Python  
 
 - 💬 **Ask me about:**  
   Flutter, Dart, Mobile App Development  
