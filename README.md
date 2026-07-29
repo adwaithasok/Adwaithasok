@@ -24,45 +24,6 @@ Senior Mobile App Developer with 4+ years of experience building cross-platform 
 ### Software Developer — Indo-Sakura Software Pvt Ltd.
 *Feb 2025 – Present | Bangalore, India*
 
-**Theroheal — Healthcare & E-commerce Platform**
-- Architected a dual-app ecosystem (Doctor App and User App) with a shared design system to ensure brand and UX consistency across both platforms.
-- Built an e-commerce management system with real-time stock updates, dynamic category filtering, and automated delivery charge calculations.
-
-**MySafety24×7 — IoT & Public Safety Ecosystem**
-- Architected a synchronized Flutter Mobile App and Flutter Web Dashboard sharing a single codebase to maintain consistent UI/UX across platforms.
-- Engineered a privacy-first, QR-based incident reporting system using WebSockets, allowing the public to report accidents, lost items, and parking issues without exposing personal contact details.
-- Developed a multi-incident reporting engine handling diverse scenarios including medical emergencies, road accidents, and delivery issues.
-- Integrated a high-priority SOS alert system that bypasses standard notification delays to instantly notify emergency contacts and authorities.
-
-**Face-ING App**
-- Integrated the Binah.ai SDK to enable real-time health metric extraction (blood pressure, heart rate) directly from smartphone camera scans.
-
-**High-Performance Betting & Esports Platform**
-- Engineered a high-concurrency platform (similar to Dream11) using WebSockets to deliver sub-second latency for live score updates and odds fluctuations.
-
-### Flutter Developer — Superior Codelabs
-*Dec 2022 – Feb 2025 | Bangalore, Karnataka, India*
-
-**Matrimony Platform — Lead Engineer**
-- Orchestrated end-to-end architecture for a high-traffic matrimony suite, synchronizing a B2C user app with a B2B broker management tool via a unified API gateway.
-- Developed and evangelized a custom design system with modular components to ensure visual consistency and speed up feature delivery across user segments.
-- Engineered a real-time chat system using WebSockets and Firebase, implementing end-to-end encryption (E2EE) to protect user privacy.
-
-**Koala Pet E-commerce**
-- Built a high-performance shopping experience with Google Maps Platform integration for store-locator features.
-- Implemented social authentication (OAuth) for Apple, Google, and Facebook logins.
-
-**FX Managers — Performance Optimization**
-- Revitalized a financial tracking app using lazy loading and pagination for large market datasets, improving user retention by 20% and maintaining smooth 60 FPS rendering.
-
-**Platform-wide Contributions**
-- Standardized Provider and Riverpod state management patterns across projects to improve maintainability and decouple business logic from the UI layer.
-- Managed full release cycles including code signing and deployment to Google Play Store and Apple App Store (TestFlight).
-
-### Flutter Developer — Stackatech Info Labs Pvt Ltd
-*Dec 2021 – Nov 2022 | Kozhikode, Kerala, India*
-
-- Developed the Duka Affiliate App, a shopping application focused on responsive UI and REST API integration.
 
 ---
 
